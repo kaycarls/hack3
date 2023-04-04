@@ -68,5 +68,4 @@ function MainScreen() {
     </View>
   )
 }
-
 export default MainScreen;
